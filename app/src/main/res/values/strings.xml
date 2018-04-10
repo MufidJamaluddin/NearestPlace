@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nearest Place</string>
+    <string name="btn_nearest">Show Nearest Place</string>
+    <string name="limit_text">Limit Item in List</string>
+    <string name="limit_val">10</string>
+    <string name="list_desc">List item ordered by your nearby place</string>
+</resources>
